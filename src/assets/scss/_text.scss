@@ -1,0 +1,45 @@
+
+@mixin title_bold {
+    font-size: 2rem;
+    font-weight: 700;
+    
+}
+
+
+
+@mixin title_regular {
+    font-size: 1.7rem;
+    font-weight: 400;
+    
+}
+
+@mixin subtitle {
+    font-size: 1.5rem;
+    font-weight: 300;
+    
+}
+
+@mixin subtitle_bold {
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+
+
+
+
+@mixin text_bold {
+    font-size: 1.2rem;
+    font-weight: 700;
+}
+
+
+@mixin text_regular {
+    font-size: 1.2rem;
+    font-weight: 400;
+}
+
+@mixin text_light {
+    font-size: 1rem;
+    font-weight: 300;
+}

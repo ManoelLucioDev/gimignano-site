@@ -1,0 +1,20 @@
+.horizontal {
+  display: flex;
+  
+}
+
+.vertical {
+  display: flex;
+  flex-direction: column;
+}
+
+.horizontal-reverse {
+display: flex;
+flex-direction: row-reverse;
+}
+
+.center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
